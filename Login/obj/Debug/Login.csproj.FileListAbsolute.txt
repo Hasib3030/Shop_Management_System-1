@@ -1,4 +1,5 @@
 F:\AIUB Program\8th semester\2.Final Term\C#\Program\Login\Login\bin\Debug\Login.exe.config
+<<<<<<< HEAD
 F:\AIUB Program\8th semester\2.Final Term\C#\Program\Login\Login\bin\Debug\Login.exe
 F:\AIUB Program\8th semester\2.Final Term\C#\Program\Login\Login\bin\Debug\Login.pdb
 F:\AIUB Program\8th semester\2.Final Term\C#\Program\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
@@ -7,3 +8,14 @@ F:\AIUB Program\8th semester\2.Final Term\C#\Program\Login\Login\obj\Debug\Login
 F:\AIUB Program\8th semester\2.Final Term\C#\Program\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
 F:\AIUB Program\8th semester\2.Final Term\C#\Program\Login\Login\obj\Debug\Login.exe
 F:\AIUB Program\8th semester\2.Final Term\C#\Program\Login\Login\obj\Debug\Login.pdb
+=======
+D:\Projects\C# Final project\SSMS\New folder\Shop_Management_System\Login\bin\Debug\Login.exe.config
+D:\Projects\C# Final project\SSMS\New folder\Shop_Management_System\Login\bin\Debug\Login.exe
+D:\Projects\C# Final project\SSMS\New folder\Shop_Management_System\Login\bin\Debug\Login.pdb
+D:\Projects\C# Final project\SSMS\New folder\Shop_Management_System\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+D:\Projects\C# Final project\SSMS\New folder\Shop_Management_System\Login\obj\Debug\Login.Form1.resources
+D:\Projects\C# Final project\SSMS\New folder\Shop_Management_System\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Projects\C# Final project\SSMS\New folder\Shop_Management_System\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+D:\Projects\C# Final project\SSMS\New folder\Shop_Management_System\Login\obj\Debug\Login.exe
+D:\Projects\C# Final project\SSMS\New folder\Shop_Management_System\Login\obj\Debug\Login.pdb
+>>>>>>> be16e36670a211543ac51918f66363a6221fef4a

@@ -16,5 +16,20 @@ namespace Login
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if(txtUN.Text=="Nazib"&& txtPass.Text=="123")
+            {
+                lblerroruser.Visible = false;
+                
+                MessageBox.Show("Logged in", "ok", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            else
+            {
+                lblerroruser.Visible = true;
+                
+            }
+        }
     }
 }
